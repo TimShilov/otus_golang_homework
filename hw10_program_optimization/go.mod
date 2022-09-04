@@ -1,4 +1,4 @@
-module github.com/fixme_my_friend/hw10_program_optimization
+module github.com/TimShilov/otus_golang_homework/hw10_program_optimization
 
 go 1.16
 
